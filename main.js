@@ -1,20 +1,8 @@
-const { duplicate, transform } = require('./streambox.js')
+// https://project-01-gamma.vercel.app/
+const { duplicate, transform, csvtojson} = require('./streambox.js')
+//const { transformin, test } = require('./.js')
 //const { transform } = require('./streambox.js')
-duplicate('streambox.js')
-transform(
-  'main.js',
-  'a',
-  function(value) {
-    return value.toUpperCase()
-  }
-)
+//const [,,filename] = process.argv
+//duplicate(filename)
 
-
-transform(
-    'main.js',
-    'b',
-    function(value) {
-      return value.toLowerCase()
-    }
-  )
-  
+csvtojson()

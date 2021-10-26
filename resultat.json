@@ -1,0 +1,713 @@
+[
+  {
+    "mois": "2016-02",
+    "nombre accidents": "370.0",
+    "nombre de jours d'absences": "16186.0",
+    "tf mensuel": "18.888268435",
+    "tf annuel glissant 12 mois": "19.6139674672",
+    "tg mensuel": "0.826285169968",
+    "tg annuel glissant 12 mois": "0.869508896004"
+  },
+  {
+    "mois": "2016-06",
+    "nombre accidents": "344.0",
+    "nombre de jours d'absences": "18221.0",
+    "tf mensuel": "17.4937265123",
+    "tf annuel glissant 12 mois": "18.9846695911",
+    "tg mensuel": "0.926608112732",
+    "tg annuel glissant 12 mois": "0.880330545109"
+  },
+  {
+    "mois": "2016-10",
+    "nombre accidents": "362.0",
+    "nombre de jours d'absences": "18172.0",
+    "tf mensuel": "18.4832603738",
+    "tf annuel glissant 12 mois": "18.5278121622",
+    "tg mensuel": "0.927839247274",
+    "tg annuel glissant 12 mois": "0.897189487548"
+  },
+  {
+    "mois": "2016-11",
+    "nombre accidents": "363.0",
+    "nombre de jours d'absences": "16912.0",
+    "tf mensuel": "18.5459101279",
+    "tf annuel glissant 12 mois": "18.3818316006",
+    "tg mensuel": "0.864045267445",
+    "tg annuel glissant 12 mois": "0.893804897981"
+  },
+  {
+    "mois": "2017-04",
+    "nombre accidents": "342.0",
+    "nombre de jours d'absences": "16815.0",
+    "tf mensuel": "17.6271557866",
+    "tf annuel glissant 12 mois": "18.0705674567",
+    "tg mensuel": "0.86666849284",
+    "tg annuel glissant 12 mois": "0.890528301789"
+  },
+  {
+    "mois": "2017-06",
+    "nombre accidents": "379.0",
+    "nombre de jours d'absences": "17708.0",
+    "tf mensuel": "19.5162034919",
+    "tf annuel glissant 12 mois": "18.2382542121",
+    "tg mensuel": "0.911854700353",
+    "tg annuel glissant 12 mois": "0.88655334028"
+  },
+  {
+    "mois": "2018-04",
+    "nombre accidents": "281.0",
+    "nombre de jours d'absences": "18185.0",
+    "tf mensuel": "14.71",
+    "tf annuel glissant 12 mois": "18.1787889296",
+    "tg mensuel": "0.93",
+    "tg annuel glissant 12 mois": "0.91"
+  },
+  {
+    "mois": "2018-08",
+    "nombre accidents": "297.0",
+    "nombre de jours d'absences": "19612.0",
+    "tf mensuel": "15.53",
+    "tf annuel glissant 12 mois": "18.0351673649",
+    "tg mensuel": "0.99",
+    "tg annuel glissant 12 mois": "0.94"
+  },
+  {
+    "mois": "2018-09",
+    "nombre accidents": "360.0",
+    "nombre de jours d'absences": "18891.0",
+    "tf mensuel": "18.95",
+    "tf annuel glissant 12 mois": "18.1108273045",
+    "tg mensuel": "0.96",
+    "tg annuel glissant 12 mois": "0.95"
+  },
+  {
+    "mois": "2019-04",
+    "nombre accidents": "341.0",
+    "nombre de jours d'absences": "18140.0",
+    "tf mensuel": "18.31",
+    "tf annuel glissant 12 mois": "17.7881874387",
+    "tg mensuel": "0.97",
+    "tg annuel glissant 12 mois": "0.98"
+  },
+  {
+    "mois": "2019-05",
+    "nombre accidents": "354.0",
+    "nombre de jours d'absences": "18213.0",
+    "tf mensuel": "19.03",
+    "tf annuel glissant 12 mois": "18.0857299817",
+    "tg mensuel": "0.98",
+    "tg annuel glissant 12 mois": "0.99"
+  },
+  {
+    "mois": "2019-08",
+    "nombre accidents": "299.0",
+    "nombre de jours d'absences": "18341.0",
+    "tf mensuel": "16.05",
+    "tf annuel glissant 12 mois": "18.2918266736",
+    "tg mensuel": "0.98",
+    "tg annuel glissant 12 mois": "0.98"
+  },
+  {
+    "mois": "2019-12",
+    "nombre accidents": "189.0",
+    "nombre de jours d'absences": "20952.0",
+    "tf mensuel": "10.24",
+    "tf annuel glissant 12 mois": "18.26",
+    "tg mensuel": "1.14",
+    "tg annuel glissant 12 mois": "1.01"
+  },
+  {
+    "mois": "2020-04",
+    "nombre accidents": "35.0",
+    "nombre de jours d'absences": "16633.0",
+    "tf mensuel": "1.92",
+    "tf annuel glissant 12 mois": "15.8030009673",
+    "tg mensuel": "0.91",
+    "tg annuel glissant 12 mois": "1.02"
+  },
+  {
+    "mois": "2020-06",
+    "nombre accidents": "214.0",
+    "nombre de jours d'absences": "15656.0",
+    "tf mensuel": "11.72",
+    "tf annuel glissant 12 mois": "14.2020065703",
+    "tg mensuel": "0.86",
+    "tg annuel glissant 12 mois": "1.0"
+  },
+  {
+    "mois": "2020-11",
+    "nombre accidents": "221.0",
+    "nombre de jours d'absences": "17414.0",
+    "tf mensuel": "12.14",
+    "tf annuel glissant 12 mois": "11.8706592815",
+    "tg mensuel": "0.96",
+    "tg annuel glissant 12 mois": "0.96"
+  },
+  {
+    "mois": "2021-01",
+    "nombre accidents": "313.0",
+    "nombre de jours d'absences": "17171.0",
+    "tf mensuel": "17.28",
+    "tf annuel glissant 12 mois": "12.24",
+    "tg mensuel": "0.95",
+    "tg annuel glissant 12 mois": "0.94"
+  },
+  {
+    "mois": "2015-03",
+    "nombre accidents": "437.0",
+    "nombre de jours d'absences": "17176.0",
+    "tf mensuel": "22.2075457375",
+    "tf annuel glissant 12 mois": "20.1439448914",
+    "tg mensuel": "0.879052920292",
+    "tg annuel glissant 12 mois": "0.863176629209"
+  },
+  {
+    "mois": "2015-09",
+    "nombre accidents": "436.0",
+    "nombre de jours d'absences": "16204.0",
+    "tf mensuel": "22.0335563668",
+    "tf annuel glissant 12 mois": "19.7982099165",
+    "tg mensuel": "0.82307461593",
+    "tg annuel glissant 12 mois": "0.84614581138"
+  },
+  {
+    "mois": "2015-11",
+    "nombre accidents": "400.0",
+    "nombre de jours d'absences": "17775.0",
+    "tf mensuel": "20.2918311182",
+    "tf annuel glissant 12 mois": "19.7173764207",
+    "tg mensuel": "0.904762019982",
+    "tg annuel glissant 12 mois": "0.856287843804"
+  },
+  {
+    "mois": "2016-01",
+    "nombre accidents": "371.0",
+    "nombre de jours d'absences": "17077.0",
+    "tf mensuel": "18.9083941296",
+    "tf annuel glissant 12 mois": "19.684957141",
+    "tg mensuel": "0.870346756201",
+    "tg annuel glissant 12 mois": "0.865390584185"
+  },
+  {
+    "mois": "2016-12",
+    "nombre accidents": "315.0",
+    "nombre de jours d'absences": "18710.0",
+    "tf mensuel": "16.0687975378",
+    "tf annuel glissant 12 mois": "18.3683464755",
+    "tg mensuel": "0.954435561689",
+    "tg annuel glissant 12 mois": "0.896861678732"
+  },
+  {
+    "mois": "2017-05",
+    "nombre accidents": "372.0",
+    "nombre de jours d'absences": "17206.0",
+    "tf mensuel": "19.2116386247",
+    "tf annuel glissant 12 mois": "18.0699735642",
+    "tg mensuel": "0.888589930581",
+    "tg annuel glissant 12 mois": "0.887816994758"
+  },
+  {
+    "mois": "2018-05",
+    "nombre accidents": "292.0",
+    "nombre de jours d'absences": "18918.0",
+    "tf mensuel": "15.31",
+    "tf annuel glissant 12 mois": "17.8553138315",
+    "tg mensuel": "0.96",
+    "tg annuel glissant 12 mois": "0.92"
+  },
+  {
+    "mois": "2018-10",
+    "nombre accidents": "406.0",
+    "nombre de jours d'absences": "20072.0",
+    "tf mensuel": "21.45",
+    "tf annuel glissant 12 mois": "18.0566658133",
+    "tg mensuel": "1.03",
+    "tg annuel glissant 12 mois": "0.95"
+  },
+  {
+    "mois": "2018-12",
+    "nombre accidents": "266.0",
+    "nombre de jours d'absences": "19969.0",
+    "tf mensuel": "14.11",
+    "tf annuel glissant 12 mois": "18.2080347829",
+    "tg mensuel": "1.04",
+    "tg annuel glissant 12 mois": "0.97"
+  },
+  {
+    "mois": "2019-01",
+    "nombre accidents": "363.0",
+    "nombre de jours d'absences": "18534.0",
+    "tf mensuel": "19.4",
+    "tf annuel glissant 12 mois": "18.2080347829",
+    "tg mensuel": "0.99",
+    "tg annuel glissant 12 mois": "0.97"
+  },
+  {
+    "mois": "2019-03",
+    "nombre accidents": "332.0",
+    "nombre de jours d'absences": "18723.0",
+    "tf mensuel": "17.81",
+    "tf annuel glissant 12 mois": "17.9096489119",
+    "tg mensuel": "1.0",
+    "tg annuel glissant 12 mois": "0.98"
+  },
+  {
+    "mois": "2019-11",
+    "nombre accidents": "349.0",
+    "nombre de jours d'absences": "19648.0",
+    "tf mensuel": "18.9",
+    "tf annuel glissant 12 mois": "18.57",
+    "tg mensuel": "1.06",
+    "tg annuel glissant 12 mois": "1.0"
+  },
+  {
+    "mois": "2020-05",
+    "nombre accidents": "126.0",
+    "nombre de jours d'absences": "16132.0",
+    "tf mensuel": "6.93",
+    "tf annuel glissant 12 mois": "14.8016003542",
+    "tg mensuel": "0.89",
+    "tg annuel glissant 12 mois": "1.01"
+  },
+  {
+    "mois": "2021-07",
+    "nombre accidents": "220.0",
+    "nombre de jours d'absences": "17250.0",
+    "tf mensuel": "12.2",
+    "tf annuel glissant 12 mois": "14.3",
+    "tg mensuel": "0.95",
+    "tg annuel glissant 12 mois": "0.96"
+  },
+  {
+    "mois": "2015-01",
+    "nombre accidents": "383.0",
+    "nombre de jours d'absences": "15961.0",
+    "tf mensuel": "19.4527728149",
+    "tf annuel glissant 12 mois": "20.2557763089",
+    "tg mensuel": "0.811444049347",
+    "tg annuel glissant 12 mois": "0.87068887737"
+  },
+  {
+    "mois": "2015-04",
+    "nombre accidents": "392.0",
+    "nombre de jours d'absences": "17538.0",
+    "tf mensuel": "19.946515407",
+    "tf annuel glissant 12 mois": "19.9066221674",
+    "tg mensuel": "0.895964906345",
+    "tg annuel glissant 12 mois": "0.861245639222"
+  },
+  {
+    "mois": "2015-07",
+    "nombre accidents": "384.0",
+    "nombre de jours d'absences": "16992.0",
+    "tf mensuel": "19.3358499107",
+    "tf annuel glissant 12 mois": "19.923784939",
+    "tg mensuel": "0.855548579814",
+    "tg annuel glissant 12 mois": "0.851484969524"
+  },
+  {
+    "mois": "2016-04",
+    "nombre accidents": "353.0",
+    "nombre de jours d'absences": "17286.0",
+    "tf mensuel": "18.0058692065",
+    "tf annuel glissant 12 mois": "19.3385085682",
+    "tg mensuel": "0.881726501709",
+    "tg annuel glissant 12 mois": "0.869522594918"
+  },
+  {
+    "mois": "2016-05",
+    "nombre accidents": "376.0",
+    "nombre de jours d'absences": "18032.0",
+    "tf mensuel": "19.2062989905",
+    "tf annuel glissant 12 mois": "19.4395245713",
+    "tg mensuel": "0.921085062224",
+    "tg annuel glissant 12 mois": "0.87523953853"
+  },
+  {
+    "mois": "2017-01",
+    "nombre accidents": "370.0",
+    "nombre de jours d'absences": "16698.0",
+    "tf mensuel": "19.1002501216",
+    "tf annuel glissant 12 mois": "18.3835641036",
+    "tg mensuel": "0.861989125757",
+    "tg annuel glissant 12 mois": "0.896201936478"
+  },
+  {
+    "mois": "2017-08",
+    "nombre accidents": "293.0",
+    "nombre de jours d'absences": "17747.0",
+    "tf mensuel": "15.0200049266",
+    "tf annuel glissant 12 mois": "18.2734736424",
+    "tg mensuel": "0.909761185775",
+    "tg annuel glissant 12 mois": "0.892357482539"
+  },
+  {
+    "mois": "2017-11",
+    "nombre accidents": "315.0",
+    "nombre de jours d'absences": "17276.0",
+    "tf mensuel": "16.3467221562",
+    "tf annuel glissant 12 mois": "18.1831683062",
+    "tg mensuel": "0.896526895144",
+    "tg annuel glissant 12 mois": "0.897796619851"
+  },
+  {
+    "mois": "2019-07",
+    "nombre accidents": "368.0",
+    "nombre de jours d'absences": "19255.0",
+    "tf mensuel": "19.7",
+    "tf annuel glissant 12 mois": "18.247576797",
+    "tg mensuel": "1.03",
+    "tg annuel glissant 12 mois": "0.99"
+  },
+  {
+    "mois": "2020-02",
+    "nombre accidents": "303.0",
+    "nombre de jours d'absences": "17731.0",
+    "tf mensuel": "16.56",
+    "tf annuel glissant 12 mois": "17.7372880402",
+    "tg mensuel": "0.97",
+    "tg annuel glissant 12 mois": "1.02"
+  },
+  {
+    "mois": "2020-07",
+    "nombre accidents": "280.0",
+    "nombre de jours d'absences": "17099.0",
+    "tf mensuel": "15.26",
+    "tf annuel glissant 12 mois": "13.8241652129",
+    "tg mensuel": "0.93",
+    "tg annuel glissant 12 mois": "0.99"
+  },
+  {
+    "mois": "2021-02",
+    "nombre accidents": "288.0",
+    "nombre de jours d'absences": "16612.0",
+    "tf mensuel": "15.95",
+    "tf annuel glissant 12 mois": "12.29",
+    "tg mensuel": "0.92",
+    "tg annuel glissant 12 mois": "0.94"
+  },
+  {
+    "mois": "2021-04",
+    "nombre accidents": "195.0",
+    "nombre de jours d'absences": "15937.0",
+    "tf mensuel": "10.81",
+    "tf annuel glissant 12 mois": "13.45",
+    "tg mensuel": "0.88",
+    "tg annuel glissant 12 mois": "0.93"
+  },
+  {
+    "mois": "2015-02",
+    "nombre accidents": "389.0",
+    "nombre de jours d'absences": "15224.0",
+    "tf mensuel": "19.7456025992",
+    "tf annuel glissant 12 mois": "20.1784695279",
+    "tg mensuel": "0.777032608199",
+    "tg annuel glissant 12 mois": "0.866707130268"
+  },
+  {
+    "mois": "2015-05",
+    "nombre accidents": "353.0",
+    "nombre de jours d'absences": "16658.0",
+    "tf mensuel": "17.9892527402",
+    "tf annuel glissant 12 mois": "19.7795130491",
+    "tg mensuel": "0.852068855004",
+    "tg annuel glissant 12 mois": "0.86036051345"
+  },
+  {
+    "mois": "2015-06",
+    "nombre accidents": "451.0",
+    "nombre de jours d'absences": "16946.0",
+    "tf mensuel": "22.9697130954",
+    "tf annuel glissant 12 mois": "19.992153073",
+    "tg mensuel": "0.865362295354",
+    "tg annuel glissant 12 mois": "0.855376446229"
+  },
+  {
+    "mois": "2015-12",
+    "nombre accidents": "321.0",
+    "nombre de jours d'absences": "18083.0",
+    "tf mensuel": "16.2476009659",
+    "tf annuel glissant 12 mois": "19.7299279171",
+    "tg mensuel": "0.917508606567",
+    "tg annuel glissant 12 mois": "0.860484883622"
+  },
+  {
+    "mois": "2016-03",
+    "nombre accidents": "408.0",
+    "nombre de jours d'absences": "17497.0",
+    "tf mensuel": "20.8369003837",
+    "tf annuel glissant 12 mois": "19.4994537022",
+    "tg mensuel": "0.893586387287",
+    "tg annuel glissant 12 mois": "0.870707884544"
+  },
+  {
+    "mois": "2016-08",
+    "nombre accidents": "356.0",
+    "nombre de jours d'absences": "17687.0",
+    "tf mensuel": "17.9861870098",
+    "tf annuel glissant 12 mois": "18.7967113011",
+    "tg mensuel": "0.893600251806",
+    "tg annuel glissant 12 mois": "0.892022489057"
+  },
+  {
+    "mois": "2017-02",
+    "nombre accidents": "321.0",
+    "nombre de jours d'absences": "15353.0",
+    "tf mensuel": "16.5840395753",
+    "tf annuel glissant 12 mois": "18.1933878464",
+    "tg mensuel": "0.793192397505",
+    "tg annuel glissant 12 mois": "0.893547107764"
+  },
+  {
+    "mois": "2017-12",
+    "nombre accidents": "286.0",
+    "nombre de jours d'absences": "17820.0",
+    "tf mensuel": "14.8370592796",
+    "tf annuel glissant 12 mois": "18.0840102209",
+    "tg mensuel": "0.924462924345",
+    "tg annuel glissant 12 mois": "0.895231633474"
+  },
+  {
+    "mois": "2018-02",
+    "nombre accidents": "396.0",
+    "nombre de jours d'absences": "16458.0",
+    "tf mensuel": "20.71",
+    "tf annuel glissant 12 mois": "18.4740029747",
+    "tg mensuel": "0.84",
+    "tg annuel glissant 12 mois": "0.89"
+  },
+  {
+    "mois": "2018-06",
+    "nombre accidents": "353.0",
+    "nombre de jours d'absences": "19575.0",
+    "tf mensuel": "18.49",
+    "tf annuel glissant 12 mois": "17.7680791147",
+    "tg mensuel": "1.0",
+    "tg annuel glissant 12 mois": "0.93"
+  },
+  {
+    "mois": "2018-11",
+    "nombre accidents": "356.0",
+    "nombre de jours d'absences": "18965.0",
+    "tf mensuel": "18.86",
+    "tf annuel glissant 12 mois": "18.2620894611",
+    "tg mensuel": "0.98",
+    "tg annuel glissant 12 mois": "0.96"
+  },
+  {
+    "mois": "2019-02",
+    "nombre accidents": "325.0",
+    "nombre de jours d'absences": "16844.0",
+    "tf mensuel": "17.41",
+    "tf annuel glissant 12 mois": "18.1898603463",
+    "tg mensuel": "0.9",
+    "tg annuel glissant 12 mois": "0.98"
+  },
+  {
+    "mois": "2020-01",
+    "nombre accidents": "247.0",
+    "nombre de jours d'absences": "18674.0",
+    "tf mensuel": "13.47",
+    "tf annuel glissant 12 mois": "17.8068586457",
+    "tg mensuel": "1.02",
+    "tg annuel glissant 12 mois": "1.01"
+  },
+  {
+    "mois": "2020-09",
+    "nombre accidents": "254.0",
+    "nombre de jours d'absences": "16777.0",
+    "tf mensuel": "13.9",
+    "tf annuel glissant 12 mois": "12.8868268264",
+    "tg mensuel": "0.92",
+    "tg annuel glissant 12 mois": "0.98"
+  },
+  {
+    "mois": "2020-12",
+    "nombre accidents": "168.0",
+    "nombre de jours d'absences": "16861.0",
+    "tf mensuel": "9.24",
+    "tf annuel glissant 12 mois": "11.7804732882",
+    "tg mensuel": "0.93",
+    "tg annuel glissant 12 mois": "0.95"
+  },
+  {
+    "mois": "2021-05",
+    "nombre accidents": "210.0",
+    "nombre de jours d'absences": "16269.0",
+    "tf mensuel": "11.7",
+    "tf annuel glissant 12 mois": "14.0",
+    "tg mensuel": "0.9",
+    "tg annuel glissant 12 mois": "0.95"
+  },
+  {
+    "mois": "2015-08",
+    "nombre accidents": "329.0",
+    "nombre de jours d'absences": "16149.0",
+    "tf mensuel": "16.5207322904",
+    "tf annuel glissant 12 mois": "19.8927486563",
+    "tg mensuel": "0.810567201559",
+    "tg annuel glissant 12 mois": "0.847892068549"
+  },
+  {
+    "mois": "2015-10",
+    "nombre accidents": "396.0",
+    "nombre de jours d'absences": "18368.0",
+    "tf mensuel": "20.0738840088",
+    "tf annuel glissant 12 mois": "19.6015745835",
+    "tg mensuel": "0.93424667243",
+    "tg annuel glissant 12 mois": "0.851299716473"
+  },
+  {
+    "mois": "2016-07",
+    "nombre accidents": "309.0",
+    "nombre de jours d'absences": "18041.0",
+    "tf mensuel": "15.6075965363",
+    "tf annuel glissant 12 mois": "18.6722587244",
+    "tg mensuel": "0.911251291623",
+    "tg annuel glissant 12 mois": "0.885007532336"
+  },
+  {
+    "mois": "2016-09",
+    "nombre accidents": "401.0",
+    "nombre de jours d'absences": "17500.0",
+    "tf mensuel": "20.4238535823",
+    "tf annuel glissant 12 mois": "18.660712489",
+    "tg mensuel": "0.891315305959",
+    "tg annuel glissant 12 mois": "0.897743366618"
+  },
+  {
+    "mois": "2017-03",
+    "nombre accidents": "382.0",
+    "nombre de jours d'absences": "16858.0",
+    "tf mensuel": "19.7578001921",
+    "tf annuel glissant 12 mois": "18.1017927512",
+    "tg mensuel": "0.871929307952",
+    "tg annuel glissant 12 mois": "0.891764470271"
+  },
+  {
+    "mois": "2017-07",
+    "nombre accidents": "370.0",
+    "nombre de jours d'absences": "18840.0",
+    "tf mensuel": "18.9521963604",
+    "tf annuel glissant 12 mois": "18.5204421848",
+    "tg mensuel": "0.965025349809",
+    "tg annuel glissant 12 mois": "0.891011506439"
+  },
+  {
+    "mois": "2017-09",
+    "nombre accidents": "349.0",
+    "nombre de jours d'absences": "17032.0",
+    "tf mensuel": "18.0317425036",
+    "tf annuel glissant 12 mois": "18.0725292139",
+    "tg mensuel": "0.879990367684",
+    "tg annuel glissant 12 mois": "0.891419576926"
+  },
+  {
+    "mois": "2017-10",
+    "nombre accidents": "425.0",
+    "nombre de jours d'absences": "18762.0",
+    "tf mensuel": "22.0284491587",
+    "tf annuel glissant 12 mois": "18.3654419088",
+    "tg mensuel": "0.972465324978",
+    "tg annuel glissant 12 mois": "0.895067546204"
+  },
+  {
+    "mois": "2018-01",
+    "nombre accidents": "374.0",
+    "nombre de jours d'absences": "17215.0",
+    "tf mensuel": "19.54",
+    "tf annuel glissant 12 mois": "18.1320793983",
+    "tg mensuel": "0.88",
+    "tg annuel glissant 12 mois": "0.89"
+  },
+  {
+    "mois": "2018-03",
+    "nombre accidents": "367.0",
+    "nombre de jours d'absences": "19232.0",
+    "tf mensuel": "19.21",
+    "tf annuel glissant 12 mois": "18.4229605156",
+    "tg mensuel": "0.98",
+    "tg annuel glissant 12 mois": "0.9"
+  },
+  {
+    "mois": "2018-07",
+    "nombre accidents": "414.0",
+    "nombre de jours d'absences": "20322.0",
+    "tf mensuel": "21.62",
+    "tf annuel glissant 12 mois": "17.9878310175",
+    "tg mensuel": "1.03",
+    "tg annuel glissant 12 mois": "0.93"
+  },
+  {
+    "mois": "2019-06",
+    "nombre accidents": "352.0",
+    "nombre de jours d'absences": "18204.0",
+    "tf mensuel": "18.9",
+    "tf annuel glissant 12 mois": "18.3933021891",
+    "tg mensuel": "0.98",
+    "tg annuel glissant 12 mois": "0.99"
+  },
+  {
+    "mois": "2019-09",
+    "nombre accidents": "389.0",
+    "nombre de jours d'absences": "18265.0",
+    "tf mensuel": "20.97",
+    "tf annuel glissant 12 mois": "18.4756055469",
+    "tg mensuel": "0.98",
+    "tg annuel glissant 12 mois": "0.99"
+  },
+  {
+    "mois": "2019-10",
+    "nombre accidents": "414.0",
+    "nombre de jours d'absences": "20165.0",
+    "tf mensuel": "22.38",
+    "tf annuel glissant 12 mois": "18.556090552",
+    "tg mensuel": "1.09",
+    "tg annuel glissant 12 mois": "0.99"
+  },
+  {
+    "mois": "2020-03",
+    "nombre accidents": "197.0",
+    "nombre de jours d'absences": "19083.0",
+    "tf mensuel": "10.77",
+    "tf annuel glissant 12 mois": "17.1570308808",
+    "tg mensuel": "1.04",
+    "tg annuel glissant 12 mois": "1.02"
+  },
+  {
+    "mois": "2020-08",
+    "nombre accidents": "221.0",
+    "nombre de jours d'absences": "17270.0",
+    "tf mensuel": "12.04",
+    "tf annuel glissant 12 mois": "13.4877643969",
+    "tg mensuel": "0.94",
+    "tg annuel glissant 12 mois": "0.99"
+  },
+  {
+    "mois": "2020-10",
+    "nombre accidents": "316.0",
+    "nombre de jours d'absences": "17991.0",
+    "tf mensuel": "17.34",
+    "tf annuel glissant 12 mois": "12.4523259362",
+    "tg mensuel": "0.99",
+    "tg annuel glissant 12 mois": "0.97"
+  },
+  {
+    "mois": "2021-03",
+    "nombre accidents": "272.0",
+    "nombre de jours d'absences": "17386.0",
+    "tf mensuel": "15.05",
+    "tf annuel glissant 12 mois": "12.7",
+    "tg mensuel": "0.96",
+    "tg annuel glissant 12 mois": "0.94"
+  },
+  {
+    "mois": "2021-06",
+    "nombre accidents": "342.0",
+    "nombre de jours d'absences": "17054.0",
+    "tf mensuel": "19.0",
+    "tf annuel glissant 12 mois": "14.6",
+    "tg mensuel": "0.95",
+    "tg annuel glissant 12 mois": "0.96"
+  }
+]
