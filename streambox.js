@@ -29,52 +29,43 @@ function transform(filename, re, fn){
   
     s.pipe(TransformStream).pipe(p)
     
+}
+
+function transformin(filename, re, fn, in_stout = true){
+  TransformStream._transform = 
+  //change la fonction (._transform) en ma propre fonction
+  function(chunk, encoding, callback) {
+   TransformStream.push(chunk.toString().split(re).join(fn(re)))
+   //sépare en chunk le texte, coupe le 're' (.split(re)) et remplace pas le résultat de la fonction fn (.join(fn(re)))
+   callback();
+   //signifie qu'il a fini et attend les nouvelles données à traiter 
+  }
+}
+
+function csvtojson(){
+  const content = fs.readFileSync('at-taux.csv', 'utf-8')
+  const raw = content.split('\r\n')
+  const header = raw.shift().toLowerCase()
+  const records = raw
+  const json = []
+
+  for (let i = 0; i < records.length; i++) {
+    const jsonRecord = {}
+    const record = records[i]
+    const fields = record.split(';')
+    //console.log(fields)
+    const head = header.split(';')
+    //console.log(head)
+
+    for (let f=0; f < fields.length; f++) {
+      jsonRecord[head[f]] = fields[f]
+    }
+
+    json.push(jsonRecord)
   }
 
-  function transformin(filename, re, fn, in_stout = true){
-    TransformStream._transform = 
-    //change la fonction (._transform) en ma propre fonction
-    function(chunk, encoding, callback) {
-        TransformStream.push(chunk.toString().split(re).join(fn(re)))
-        //sépare en chunk le texte, coupe le 're' (.split(re)) et remplace pas le résultat de la fonction fn (.join(fn(re)))
-        callback();
-        //signifie qu'il a fini et attend les nouvelles données à traiter 
-    }
-    
-    const s = fs.createReadStream(filename);
-    const p = fs.createWriteStream('log.txt')
-  
-    s.pipe(TransformStream).pipe(p)
-    if (in_stout==true){
-      s.pipe(TransformStream).pipe(process.stdout)
-    }
-  }
-
-  function csvtojson(){
-
-    const content = fs.readFileSync('at-taux.csv', 'utf-8')
-    const raw = content.split('\r\n')
-    const header = raw.shift().toLowerCase()
-    const records = raw
-    const json = []
-  
-    for (let i = 0; i < records.length; i++) {
-      const jsonRecord = {}
-      const record = records[i]
-      const fields = record.split(';')
-      //console.log(fields)
-      const head = header.split(';')
-      //console.log(head)
-  
-      for (let f=0; f < fields.length; f++) {
-        jsonRecord[head[f]] = fields[f]
-      }
-  
-      json.push(jsonRecord)
-    }
-  
-  fs.writeFileSync("resultat.json",JSON.stringify(json, null, 2))
-  }
+ fs.writeFileSync("CSV2JSON.json",JSON.stringify(json, null, 2))
+}
 
 module.exports = {
     duplicate,
