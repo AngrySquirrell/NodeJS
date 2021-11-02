@@ -63,7 +63,6 @@ function csvtojson(){
 
     json.push(jsonRecord)
   }
-
  fs.writeFileSync("CSV2JSON.json",JSON.stringify(json, null, 2))
 }
 
